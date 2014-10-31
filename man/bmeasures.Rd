@@ -122,9 +122,10 @@ for (data1 in 1:(dsample[1]-1))
     id <- paste(data1,"-",data2)
     id <- gsub(" ","",id)
     
+    # result: a, b, c, d, similarity/dissimilarity coefficient
     result <- c(id=id, result)
     
-    # binding the outputs
+    # binding the results as output
     if ((data1==1) & (data2==(data1+1)))
     {
       output <- result
