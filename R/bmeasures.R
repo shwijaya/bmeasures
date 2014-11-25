@@ -194,7 +194,7 @@ bmeasures <- function (x,y,method)
   },
   eq_31 = {
 #     cat("equation 31 \n")
-    coef <- a/(sqrt((a+b)*(a+c))^2)
+    coef <- a/(sqrt((a+b)*(a+c)))
   },
   eq_32 = {
 #     cat("equation 32 \n")
