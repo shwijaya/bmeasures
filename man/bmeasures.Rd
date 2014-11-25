@@ -55,7 +55,7 @@ bmeasures(x, y, method)
      \code{"eq_31"} Cosine similarity,                  \tab \code{"eq_71"} Baroni-Urbani&Buser-1 similarity,\cr
      \code{"eq_32"} Gilbert & Wells similarity,         \tab \code{"eq_72"} Baroni-Urbani&Buser-2 similarity,\cr
      \code{"eq_33"} Ochiai-1 similarity,                \tab \code{"eq_73"} Peirce similarity,\cr
-     \code{"eq_34"} Forbesi similarity,                 \tab \code{"eq_74"} Eyraud similarity,\cr
+     \code{"eq_34"} Forbes-1 similarity,                 \tab \code{"eq_74"} Eyraud similarity,\cr
      \code{"eq_35"} Fossum similarity,                  \tab \code{"eq_75"} Tarantula similarity,\cr
      \code{"eq_36"} Sorgenfrei similarity,              \tab \code{"eq_76"} Ample similarity,\cr
      \code{"eq_37"} Mountford similarity,               \tab \code{"eq_77"} Derived Rusell-Rao similarity,\cr
