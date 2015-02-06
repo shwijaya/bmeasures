@@ -23,8 +23,8 @@ bmeasures(x, y, method)
      similarity/dissimilarity measures are as follows: 
      \tabular{ll}{
      \code{"eq_01"} Jaccard similarity,                 \tab \code{"eq_41"} Kulczynski-2 similarity,\cr 
-     \code{"eq_02"} Dice similarity,                    \tab \code{"eq_42"} Driver & Kroeber similarity,\cr          
-     \code{"eq_03"} Czekanowski similarity,             \tab \code{"eq_43"} Johnson similarity,\cr
+     \code{"eq_02"} Dice-2 similarity,                    \tab \code{"eq_42"} Driver & Kroeber similarity,\cr          
+     \code{"eq_03"} Dice-1/Czekanowski similarity,             \tab \code{"eq_43"} Johnson similarity,\cr
      \code{"eq_04"} 3W-Jaccard similarity,              \tab \code{"eq_44"} Dennis similarity,\cr
      \code{"eq_05"} Nei & Li similarity,                \tab \code{"eq_45"} Simpson similarity,\cr
      \code{"eq_06"} Sokal & Sneath-1 similarity,        \tab \code{"eq_46"} Braun & Banquet similarity,\cr
