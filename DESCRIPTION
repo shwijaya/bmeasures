@@ -1,8 +1,8 @@
 Package: bmeasures
 Type: Package
 Title: Binary similarity and dissimilarity measures
-Version: 1.0
-Date: 2014-10-31
+Version: 1.1
+Date: 2016-10-13
 Author: Sony Hartono Wijaya, Naoaki Ono, Md. Altaf-Ul-Amin, Shigehiko Kanaya
 Maintainer: Sony Hartono Wijaya <sonyhartono@gmail.com>
 Description: This package generates the quantities of the OTUs table and calculates the binary similarity/dissimilarity measures between two vectors using desired equation.
