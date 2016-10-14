@@ -58,8 +58,7 @@ output <- bmeasures_find(inFile="immune_cancer.csv", setSeed=1)
 
 # define the number of AUC iterations used for calculating meanAUC
 output <- bmeasures_find(inFile="immune_cancer.csv", setSeed=1, numSample=50)
-
-
+}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{ ~kwd1 }

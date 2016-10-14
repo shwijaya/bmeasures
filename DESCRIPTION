@@ -3,7 +3,7 @@ Type: Package
 Title: Binary similarity and dissimilarity measures
 Version: 1.1
 Date: 2016-10-13
-Author: Sony Hartono Wijaya, Naoaki Ono, Md. Altaf-Ul-Amin, Shigehiko Kanaya
-Maintainer: Sony Hartono Wijaya <sonyhartono@gmail.com>
-Description: This package generates the quantities of the OTUs table and calculates the binary similarity/dissimilarity measures between two vectors using desired equation.
+Author: Sony H. Wijaya, Farit M. Afendi, Irmanida Batubara, Latifah K. Darusman, Md. Altaf-Ul-Amin, Shigehiko Kanaya
+Maintainer: Sony H. Wijaya <sonyhartono@gmail.com>
+Description: This package generates the quantities of the OTUs table, calculates the binary similarity/dissimilarity measures between two vectors, and finding the most suitable binary similarity/dissimilarity equations using ROC analysis.
 License: GPL-2
